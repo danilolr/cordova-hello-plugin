@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-hello",
+  "version": "0.1.0",
+  "description": "A sample for a new cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-hello",
+    "platforms": [
+      "android",
+      "ios",
+      "wp7"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilolr/cordova-hello-plugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "hello",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Don Coleman",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/danilolr/cordova-hello-plugin/issues"
+  },
+  "homepage": "https://github.com/danilolr/cordova-hello-plugin#readme"
+}
