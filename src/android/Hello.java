@@ -12,7 +12,7 @@ public class Hello extends CordovaPlugin {
         if (action.equals("greet")) {
 
             String name = data.getString(0);
-            String message = "Hello, " + name + " this is v1";
+            String message = "Hello, " + name + " this is v3";
             callbackContext.success(message);
 
             return true;
